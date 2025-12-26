@@ -10,7 +10,8 @@
 
 - 👯 I’m looking to collaborate on **projects.**
 
-- 💬 Ask me about **PHP/LARAVEL/NODEJS/EXPRESS/NEXTJS/NESTJS/VUEJS/REACTJS/JAVASCRIPT/CSS/HTML**
+- 💬 Ask me about **PHP/LARAVEL/NODEJS/EXPRESS**
+-       **NEXTJS/NESTJS/VUEJS/REACTJS/JAVASCRIPT/CSS/HTML**
 
 - 📫 How to reach me **sanatannk@gmail.com**
 
